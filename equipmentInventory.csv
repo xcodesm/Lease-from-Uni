@@ -1,0 +1,30 @@
+﻿Device Name,Device Type,Device Serial (need alo internal id),CPU,GPU,RAM
+Gigabyte Aero15 1070 (E-N5110-PC-A1),Laptop,GHSBC0211A0002,I7-7700HQ,GTX 1070,16GB
+Gigabyte Aero15-X9 2070 (E-N5110-PC-A3),Laptop,SN19040J001539,I7-8750H,RTX 2070,32GB
+Gigabyte Aero15-X9 2070 (E-N5110-PC-A6),Laptop,SN19040J001547,I7-8750H,RTX 2070,32GB
+Gigabyte Aero15-X9 2070 (E-N5110-PC-A5),Laptop,SN19040J001542,I7-8750H,RTX 2070,32GB
+Gigabyte Aero15-X9 2070 (E-N5110-PC-A4),Laptop,SN19040J001548,I7-8750H,RTX 2070,32GB
+Google Pixel 2 G011A,Mobile Device,FA79MA05608,,,
+Samsung Galaxy S6 SM-G920F,Mobile Device,R58HB63GNCV,,,
+iPad Air Gen3,Mobile Device,F9FYNNQULMPD,,,
+iPad Pro Gen6,Mobile Device,QGJF42P99K,,,
+Mac Mini M2 A2816,Non-Portable PC,MV634YGNWF,M2 10C,N/A,16GB
+Gigabyte Aorus15X 4070,Laptop,SN23080J000369,,,
+Oculus Quest 1,Standalone Headset,1PAVR2C0D29193,,,
+Oculus Quest 1,Standalone Headset,1PAVR2C0CN9193,,,
+Oculus Quest 1,Standalone Headset,1PAVR2C0CU9194,,,
+Pico 4,Standalone Headset,PA82E0MGG9070251G,,,
+Pico 4,Standalone Headset,PA82E0MGG9080239G,,,
+Pico 4 Enterprise,Standalone Headset,PA8E50MGH1110185D,,,
+Oculus Quest 2,Standalone Headset,1WMVR4M06Q1491,,,
+Oculus Quest 2,Standalone Headset,1WMVR4M2S61491,,,
+Oculus Quest 2,Standalone Headset,1WMVR4M0XX1491,,,
+Vive Focus 3,Standalone Headset,FA21L2Z00366,,,
+Vive Focus 3,Standalone Headset,FA21L2Z00354,,,
+Vive Focus 3,Standalone Headset,FA21L2Z00364,,,
+Vive Focus 3,Standalone Headset,FA21L2Z00336,,,
+Vive Focus 3,Standalone Headset,FA21L2Z00365,,,
+Hololens 1,Standalone Headset,133765056,,,
+Hololens 2,Standalone Headset,16261594656,,,
+Raspberry Pi 4 (BCM2711C0 Variant),Non-Portable PC,100000002e9cd67,BCM2711C0,N/A,4GB
+Mac Mini Intel A1993,Non-Portable PC,C07YT27FJYW0,"""6-Core Intel Core I5""",N/A,16GB
